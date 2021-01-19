@@ -6,4 +6,4 @@ if (a % 3 === 0 || a % 5 === 0)
 sum += a;
 }
 }
-alert(sum);
+console.log(sum);

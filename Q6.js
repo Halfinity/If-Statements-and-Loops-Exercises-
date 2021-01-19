@@ -7,19 +7,19 @@ avg += students[i][1];
 var avg = (avg/students.length);
 }
 
-alert("Average grade: " + (avg)/students.length);
+console.log("Average grade: " + (avg)/students.length);
 
 if (avg < 60){
-alert("Grade : F");
+console.log("Grade : F");
 }
 else if (avg < 70) {
-alert("Grade : D");
+console.log("Grade : D");
 }
 else if (avg < 80)
 {
-alert("Grade : C");
+console.log("Grade : C");
 } else if (avg < 90) {
-alert("Grade : B");
+console.log("Grade : B");
 } else if (avg < 100) {
-alert("Grade : A");
+console.log("Grade : A");
 }

@@ -5,6 +5,6 @@ for (b=1; b < a; b++)
 {
 c=c+("*");
 }
-alert(c);
+console.log(c);
 c='';
 }

@@ -13,4 +13,4 @@ b = b - a;
 }
 }
 gcd = a;
-alert(gcd);
+console.log(gcd);

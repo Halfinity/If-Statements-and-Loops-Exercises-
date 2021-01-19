@@ -28,4 +28,4 @@ The5 = The5+(num + ", ") ;
 
 num++ ;
 }
-alert('First 5 happy numbers are : '+The5);
+console.log('First 5 happy numbers are : '+The5);

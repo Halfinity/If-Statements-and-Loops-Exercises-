@@ -1,4 +1,4 @@
-function three_digit_armstrong_number()
+function three_digit_numbers()
 {
 for (var i = 1; i < 10; ++i)
 {
